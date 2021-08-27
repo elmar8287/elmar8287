@@ -1,20 +1,15 @@
 📝 ***Feel free to contact me.*** [![Github](https://img.shields.io/github/followers/elmar8287?label=Follow%20Me&style=social)](https://github.com/elmar8287)
  <br>
  <br>
-<!--  [![Linkedin Badge](https://img.shields.io/badge/-Ahmet%20Bozacı-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmetbozaci/)](https://www.linkedin.com/in/ahmetbozaci/)
-[![Twitter Badge](https://img.shields.io/badge/-@ahmtbozaci-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ahmtbozaci)](https://twitter.com/ahmtbozaci)
- -->
  
  # I am Elmar - Software Developer 👋 
-![](https://img.shields.io/badge/Microverse-blueviolet)
-<!-- Use banner
-https://www.canva.com/create/banners/
--->
-###  I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=04r25h) as a Full-Stack web developer student.<br>
-###  I am  working daily on Microverse program to improve my skills through building projects in pair programming with developers from all over the world
 
-  
-  
+###  I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=04r25h) as a Full-Stack web developer student.<br>
+###  I am  working daily on Microverse program to improve my skills through building projects in pair programming with developers from all over the world<br>
+###  You can check my portfolio and contact with me, if you need your project coded.
+
+Here is a Fact: I'm in the top 1% GitHub commits in Azerbaijan😎[GitHub commits in Azerbaijan](https://commits.top/azerbaijan.html)
+ 
  
 ## Github Stats : 
 <!--
