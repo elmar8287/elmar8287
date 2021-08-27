@@ -8,7 +8,7 @@
 ###  I am  working daily on Microverse program to improve my skills through building projects in pair programming with developers from all over the world<br>
 ###  You can check my portfolio and contact with me, if you need your project coded.
 
-Here is a Fact: I'm in the top 1% GitHub commits in Azerbaijan😎[GitHub commits in Azerbaijan](https://commits.top/azerbaijan.html)
+Here is a Fact: I'm in the top 1% [GitHub commits in Azerbaijan](https://commits.top/azerbaijan.html)😎
  
  
 ## Github Stats : 
