@@ -18,6 +18,10 @@ Here is a Fact: I'm in the top 1% [GitHub commits in Azerbaijan](https://commits
 
 ![elmar8287's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmar8287&show_icons=true&theme=vue-dark)
 
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliabbani&layout=compact&theme=tokyonight)](https://github.com/elmar8287/github-readme-stats)
+
+
 <!--
 **elmar8287/elmar8287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
