@@ -6,7 +6,7 @@
 
 ###  I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=04r25h) as a Full-Stack web developer student.<br>
 ###  I am  working daily on Microverse program to improve my skills through building projects in pair programming with developers from all over the world<br>
-###  You can check my portfolio and contact with me, if you need your project coded.
+###  You can check my portfolio and contact me if you need your project code.
 
 Here is a Fact: I'm in the top 1% [GitHub commits in Azerbaijan](https://commits.top/azerbaijan.html)😎
  
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on todo project in JS
 - 🌱 I’m currently learning Web-development at Microverse
-- 👯 I’m looking to collaborate on projects related with front-end
+- 👯 I’m looking to collaborate on projects related to front-end
 - 💬 Ask me about anything!
 - 📫 How to reach me: L-mar@inbox.ru
 -->
