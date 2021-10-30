@@ -1,6 +1,5 @@
 📝 ***Feel free to contact me.*** [![Github](https://img.shields.io/github/followers/elmar8287?label=Follow%20Me&style=social)](https://github.com/elmar8287)
- <br>
-![Visitor Count](https://profile-counter.glitch.me/{elmar8287}/count.svg)
+ 
  <br><br>
  
  # I am Elmar - Software Developer 👋 
@@ -51,3 +50,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything!
 - 📫 How to reach me: L-mar@inbox.ru
 -->
+
+<br>
+![Visitor Count](https://profile-counter.glitch.me/{elmar8287}/count.svg)
