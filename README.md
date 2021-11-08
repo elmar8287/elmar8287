@@ -2,7 +2,7 @@
  
  <br><br>
  
- # I am Elmar - Software Developer 👋 
+ # I am Elmar - Software Developer 👋 👋 
  ## My Tech Stack
  <br>
  
