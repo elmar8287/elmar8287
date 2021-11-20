@@ -1,7 +1,5 @@
 📝 ***Feel free to contact me.*** [![Github](https://img.shields.io/github/followers/elmar8287?label=Follow%20Me&style=social)](https://github.com/elmar8287)
- 
  <br><br>
- 
  # I am Elmar - Software Developer 👋 
  ## My Tech Stack
  <br>
