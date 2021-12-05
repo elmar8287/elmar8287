@@ -20,7 +20,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <br><br>
-
 # I speak on Lezghin, Azeri, Turkish, Russian, English<br>
 ###  I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=04r25h) as a Full-Stack web developer student.<br>
 ###  I am  working daily on Microverse program to improve my skills through building projects in pair programming with developers from all over the world<br>
