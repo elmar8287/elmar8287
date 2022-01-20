@@ -27,7 +27,7 @@
 ###  I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=04r25h) as a Full-Stack web developer student.<br>
 ###  I am  working daily on Microverse program to improve my skills through building projects in pair programming with developers from all over the world<br>
 ###  You can check [my portfolio](https://elmar8287.github.io/) and [contact me](https://elmar8287.github.io/#contact) if you need your project code.
-Here is an interesting fact: I'm in the top 1% [GitHub commits in Azerbaijan](https://commits.top/azerbaijan.html)😎
+Here is an interesting fact: I'm in the top 1% [GitHub commits in Azerbaijan](https://commits.top/azerbaijan.html) 😎
 ## Github Stats : 
 <!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=elmar8287) 
