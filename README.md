@@ -1,6 +1,8 @@
 📝 ***Feel free to contact me.*** [![Github](https://img.shields.io/github/followers/elmar8287?label=Follow%20Me&style=social)](https://github.com/elmar8287)
  <br><br>
  # I am Elmar - Software Developer
+ ## Actually, learning TypeScript
+ <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
  ## My Tech Stack
  <br>
 <code><img height="40" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
