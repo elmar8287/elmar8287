@@ -1,7 +1,7 @@
 📝 ***Feel free to contact me.*** [![Github](https://img.shields.io/github/followers/elmar8287?label=Follow%20Me&style=social)](https://github.com/elmar8287)
  <br><br>
  # I am Elmar - Software Developer
- ## Actually, I am learning the TypeScript abd FireBase!
+ ## Actually, I am learning TypeScript and FireBase!
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
  ## My Tech Stack
