@@ -2,11 +2,7 @@
  <br><br>
  # I am Elmar - Software Developer
  ## Current state: learning TypeScript and FireBase <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-## Planning: become a professional in React! <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<br>
-
-
- ## My Tech Stack
+## My Tech Stack
  <br>
 <code><img height="40" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -31,7 +27,7 @@
 
 # I speak on Lezghin, Azeri, Turkish, Russian, English<br>
 
-###  I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=04r25h) as a Full-Stack web developer student.<br>
+###  I am currently enrolled at [MLH Fellowship](https://fellowship.mlh.io/) as a Software Engineer track experience what it's like to collaborate in a small group on a real project from one of MLH corporate or government partners.<br>
 
 ###  I am  working daily on Microverse program to improve my skills through building projects in pair programming with developers from all over the world<br>
 
