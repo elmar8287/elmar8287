@@ -31,7 +31,7 @@
 Here is an interesting fact: I'm in the top 1% [GitHub commits in Azerbaijan](https://commits.top/azerbaijan.html) 😎
 ## Github Stats : 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=elmar8287) 
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=elmar8287)  -->
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=elmar8287&theme=vue-dark" alt="Elmar" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=elmar8287&show_icons=true&theme=vue-dark" alt="Elmar" /></p>
