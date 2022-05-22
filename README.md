@@ -36,4 +36,4 @@ Here is an interesting fact: I'm in the top 1% [GitHub commits in Azerbaijan](ht
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=elmar8287&theme=vue-dark" alt="Elmar" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=elmar8287&show_icons=true&theme=vue-dark" alt="Elmar" /></p>
 ## Most Used Languages
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmar8287&layout=compact&theme=tokyonight)](https://github.com/elmar8287/github-readme-stats)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmar8287&layout=compact&theme=tokyonight)(https://github.com/elmar8287/github-readme-stats)
