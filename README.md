@@ -31,6 +31,7 @@
 - Develop code review guidelines on Databases, React.js/Redux, Testing and Ruby on Rails, for part-time code reviewers in a fast-paced startup.<br>
 - Help 300+ students debug their code and understand technical concepts to improve their performance.
 <br>
+
 ###  You can check [my portfolio](https://elmar8287.github.io/) and [contact me](https://elmar8287.github.io/#contact) if you need your project code.
 Here is an interesting fact: I'm in the top 1% [GitHub commits in Azerbaijan](https://commits.top/azerbaijan.html) 😎
 ## Github Stats : 
