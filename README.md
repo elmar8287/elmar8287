@@ -27,9 +27,9 @@
 # Except for English, I speak also Lezghin, Azeri, Turkish, Russian<br>
 ###  I am currently enrolled at [MLH Fellowship](https://fellowship.mlh.io/) as a Software Engineer track experience what it's like to collaborate in a  group on a real project from one of MLH corporate or government partners. Major League Hacking (MLH) is the official student hackathon league, which teach computer science skills to more than 65,000 students around the world.<br>
 ### I am also a part of a big family called [Microverse](https://www.microverse.org/) - the online Web Development Bootcamp, where I<br>
-- Provide quality control and feedback to over 50 code reviewers per week within a cross-functional team in an all-remote, global startup.<br>
-- Develop code review guidelines on Databases, React.js/Redux, Testing and Ruby on Rails, for part-time code reviewers in a fast-paced startup.<br>
-- Help 300+ students debug their code and understand technical concepts to improve their performance.
+- Provide quality control and feedback to over **50 code reviewers** per week within a cross-functional team in an all-remote, global startup.<br>
+- Develop **code review** guidelines on Databases, React.js/Redux, Testing and Ruby on Rails, for part-time code reviewers in a fast-paced startup.<br>
+- **Help 300+ students** debug their code and understand technical concepts to improve their performance.
 <br>
 
 ###  You can check [my portfolio](https://elmar8287.github.io/) and [contact me](https://elmar8287.github.io/#contact) if you need your project code.
