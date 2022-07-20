@@ -26,8 +26,8 @@
 <br><br>
 
 ## My Organizations: <br><br>
-<code><img height="40" src="https://avatars.githubusercontent.com/u/22550229?s=64&v=4"></code>
-<code><img height="40" src="https://avatars.githubusercontent.com/u/65834464?s=64&v=4"></code>
+<code><a href="https://www.microverse.org/"><img height="40" src="https://avatars.githubusercontent.com/u/22550229?s=64&v=4" alt="Microverse"><a/></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/65834464?s=64&v=4" alt="MLH"></code>
 <br><br>
 # Except for English, I speak also Lezghin, Azeri, Turkish, Russian<br>
 ###  I am currently enrolled at [MLH Fellowship](https://fellowship.mlh.io/) as a Software Engineer track experience what it's like to collaborate in a  group on a real project from one of MLH corporate or government partners. Major League Hacking (MLH) is the official student hackathon league, which teach computer science skills to more than 65,000 students around the world.<br>
