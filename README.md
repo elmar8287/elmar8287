@@ -47,5 +47,4 @@ Here is an interesting fact: I'm in the top 1% [GitHub commits in Azerbaijan](ht
 
 ## Most Used Languages
 
-
 ![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmar8287&layout=compact&theme=tokyonight)
