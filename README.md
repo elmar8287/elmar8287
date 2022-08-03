@@ -1,6 +1,10 @@
 📝 ***Feel free to contact me.*** [![Github](https://img.shields.io/github/followers/elmar8287?label=Follow%20Me&style=social)](https://github.com/elmar8287)
 <br><br>
  
+ <img src="https://quickchart.io/chart?width=500&height=300&chart={type:'bar',data:{labels:['January','February', 'March','April', 'May'], datasets:[{label:'Dogs',data:[50,60,70,180,190]},{label:'Cats',data:[100,200,300,400,500]}]}}" />
+ 
+ <br><br>
+ 
 # I am Elmar - Web Developer
 ## My Tech Stack
 <br>
