@@ -1,4 +1,9 @@
 📝 ***Feel free to contact me.*** [![Github](https://img.shields.io/github/followers/elmar8287?
+
+label=Follow%20Me&style=social)](https://github.com/elmar8287)
+ <br><br>
+ 
+ `https://quickchart.io/chart?c={type:'bar',data:{labels:['Q1','Q2','Q3','Q4'], datasets:[{label:'Users',data:[50,60,70,180]},{label:'Revenue',data:[100,200,300,400]}]}}`
  
 # I am Elmar - Web Developer
 ## My Tech Stack
