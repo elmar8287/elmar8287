@@ -49,5 +49,6 @@ Here is an interesting fact: I'm in the top 1% [GitHub commits in Azerbaijan](ht
 
 ![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmar8287&layout=compact&theme=tokyonight)
 
+## My github activity graph
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=elmar8287&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/elmar8287/github-readme-activity-graph)
