@@ -30,10 +30,10 @@
 <code><a href="https://mlh.io/"><img height="40" src="https://avatars.githubusercontent.com/u/65834464?s=64&v=4" alt="MLH"></a></code>
 <br><br>
  
-# Except for English, I speak also Lezghin, Azeri, Turkish, Russian<br>
+# Except for English, I speak also English, Russian, Turkish, Azeri, and Lezghin<br>
 ### I am a part of a big family called [Microverse](https://www.microverse.org/) - the online Web Development Bootcamp, where I<br>
 - Provide quality control and feedback to over **50 code reviewers** per week within a cross-functional team in an all-remote, global startup.<br>
-- Develop **code review** guidelines on Databases, React.js/Redux, Testing and Ruby on Rails, for part-time code reviewers in a fast-paced startup.<br>
+- Develop **code review** guidelines on Databases, React.js/Redux, Testing, and Ruby on Rails, for part-time code reviewers in a fast-paced startup.<br>
 - **Help 300+ students** debug their code and understand technical concepts to improve their performance.
 <br>
 
