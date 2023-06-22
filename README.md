@@ -38,7 +38,7 @@
 <br>
 
 ###  You can check [my portfolio](https://elmar8287.github.io/) and [contact me](https://elmar8287.github.io/#contact) if you need your project code.
-Here is an interesting fact: I'm in the top 1% [GitHub commits in Azerbaijan](https://commits.top/azerbaijan.html) 😎
+Here is an interesting fact: I'm in the top 1% [GitHub commits in Azerbaijan](https://committers.top/azerbaijan) 😎
 ## Github Stats : 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=elmar8287)
 ###  I am currently enrolled at [MLH Fellowship](https://fellowship.mlh.io/) as a Software Engineer track experience what it's like to collaborate in a  group on a real project from one of MLH corporate or government partners. Major League Hacking (MLH) is the official student hackathon league, which teach computer science skills to more than 65,000 students around the world.<br>
