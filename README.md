@@ -42,7 +42,7 @@
 Here is an interesting fact: I'm in the top 1% [GitHub commits in Azerbaijan](https://committers.top/azerbaijan) 😎
 ## Github Stats : 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=elmar8287)
-###  I am currently enrolled at [MLH Fellowship](https://fellowship.mlh.io/) as a Software Engineer track experience what it's like to collaborate in a  group on a real project from one of MLH corporate or government partners. Major League Hacking (MLH) is the official student hackathon league, which teaches computer science skills to more than 65,000 students around the world.<br>
+###  I am currently enrolled at [MLH Fellowship](https://fellowship.mlh.io/) as a Software Engineer track experience what it's like to collaborate in a  group on a real project from one of MLH's corporate or government partners. Major League Hacking (MLH) is the official student hackathon league, which teaches computer science skills to more than 65,000 students around the world.<br>
 
   -->
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=elmar8287&theme=vue-dark" alt="Elmar" /></p>
@@ -52,6 +52,6 @@ Here is an interesting fact: I'm in the top 1% [GitHub commits in Azerbaijan](ht
 
 ![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmar8287&layout=compact&theme=tokyonight)
 
-## My github activity graph
+## My GitHub activity graph
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=elmar8287&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/elmar8287/github-readme-activity-graph)
